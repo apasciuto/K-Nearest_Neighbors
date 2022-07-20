@@ -1,18 +1,3 @@
----
-layout: post
-title:  "K-Nearest Neighbors: Predicting Car Prices"
-cover: "/assets/media/car-prices/car.png"
-permalink: /:categories/:year/:month/:day/K-Nearest-Neighbors
-excerpt_separator: <!--end-->
-categories: projects
-date: 2017-09-04
----
-
-Using k-Nearest Neighbors (k-NN) to Predict Car Prices.
-
-<!--end-->
-
-
 # Car Prices: K-Nearest Neighbors
 
 **Using k-Nearest Neighbors (k-**NN**) to Predict Car Prices.**  
